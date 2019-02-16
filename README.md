@@ -11,4 +11,4 @@ starting to, or trying to integrate into their technology stack. Not only that,
 the website manages to organize many of its articles into popular topics such as
 Cloud, Data, Blockchain.
 
-
+**Nanako Chung**: I have always been looking for a blog to get accurate and relevant information about Software Engineering! I have bookmarked it and will use it going forward. *Thank you*!
